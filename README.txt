@@ -1,1 +1,1 @@
-Hello World!\n
+This git contains the finished "Tour San Francisco" web site from Infinite Skills's course on HTML.
